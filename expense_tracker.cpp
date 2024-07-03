@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <iomanip>
-#include <limits> // for input validation
+#include <limits>
 
 using namespace std;
 
